@@ -22,7 +22,7 @@ Before running the application, please follow these steps:
 
 ⚠️ This setup is required to enable full functionality of the app (such as adding users).
 
-3. and then you can download UI repo on >
+3. and then you can download UI repo on > https://github.com/Pawnpawee/UserManagementUI.git
 
 ---
 
