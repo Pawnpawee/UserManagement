@@ -1,6 +1,6 @@
 ---
 
-# 🌟 UserManagement
+# 🌟 UserManagement : API
 
 Welcome to the **UserManagement** project – my very first application developed during the **Gofive Internship** using **Angular 19** and **ASP.NET 9**.
 
@@ -21,6 +21,8 @@ Before running the application, please follow these steps:
    👉 [scripts.sql](./scripts.sql)
 
 ⚠️ This setup is required to enable full functionality of the app (such as adding users).
+
+3. and then you can download UI repo on >
 
 ---
 
